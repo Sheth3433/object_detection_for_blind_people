@@ -1,0 +1,4375 @@
+[
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "cell phone",
+                "confidence": 0.64,
+                "position": "left"
+            },
+            {
+                "name": "laptop",
+                "confidence": 0.55,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:51:43.628613"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.46,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:51:42.220296"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "book",
+                "confidence": 0.38,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:51:17.867197"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "book",
+                "confidence": 0.39,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:51:15.747489"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "book",
+                "confidence": 0.4,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:51:13.760052"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "cell phone",
+                "confidence": 0.45,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:51:09.453076"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.9,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:51:07.993255"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "donut",
+                "confidence": 0.54,
+                "position": "left"
+            }
+        ],
+        "time": "2026-02-19T14:51:05.967830"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "donut",
+                "confidence": 0.68,
+                "position": "left"
+            },
+            {
+                "name": "donut",
+                "confidence": 0.41,
+                "position": "left"
+            },
+            {
+                "name": "cell phone",
+                "confidence": 0.36,
+                "position": "right"
+            }
+        ],
+        "time": "2026-02-19T14:51:03.927818"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "cell phone",
+                "confidence": 0.42,
+                "position": "right"
+            },
+            {
+                "name": "laptop",
+                "confidence": 0.39,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:51:01.404882"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "suitcase",
+                "confidence": 0.35,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:50:59.755431"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "suitcase",
+                "confidence": 0.36,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:50:55.573956"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "suitcase",
+                "confidence": 0.43,
+                "position": "center"
+            },
+            {
+                "name": "suitcase",
+                "confidence": 0.39,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:50:49.757884"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "book",
+                "confidence": 0.48,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:50:33.732506"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "book",
+                "confidence": 0.56,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:50:31.804826"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "book",
+                "confidence": 0.51,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:50:29.887610"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "book",
+                "confidence": 0.58,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:50:28.170678"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "book",
+                "confidence": 0.56,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:50:24.043386"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "book",
+                "confidence": 0.5,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:50:21.767799"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "book",
+                "confidence": 0.76,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:50:20.291807"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "book",
+                "confidence": 0.58,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:50:18.142820"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "book",
+                "confidence": 0.65,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:50:13.609668"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "book",
+                "confidence": 0.65,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:50:11.741869"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "book",
+                "confidence": 0.55,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:50:09.711978"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "book",
+                "confidence": 0.74,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:50:07.764732"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.91,
+                "position": "left"
+            },
+            {
+                "name": "person",
+                "confidence": 0.74,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:45:11.406447"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.76,
+                "position": "center"
+            },
+            {
+                "name": "person",
+                "confidence": 0.66,
+                "position": "right"
+            }
+        ],
+        "time": "2026-02-19T14:45:09.791097"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.62,
+                "position": "center"
+            },
+            {
+                "name": "person",
+                "confidence": 0.6,
+                "position": "center"
+            },
+            {
+                "name": "person",
+                "confidence": 0.49,
+                "position": "right"
+            }
+        ],
+        "time": "2026-02-19T14:45:07.424249"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "airplane",
+                "confidence": 0.47,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:45:01.626561"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.8,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:44:59.521751"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "chair",
+                "confidence": 0.74,
+                "position": "left"
+            },
+            {
+                "name": "person",
+                "confidence": 0.51,
+                "position": "left"
+            },
+            {
+                "name": "bed",
+                "confidence": 0.35,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:44:55.616497"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "chair",
+                "confidence": 0.8,
+                "position": "center"
+            },
+            {
+                "name": "chair",
+                "confidence": 0.67,
+                "position": "center"
+            },
+            {
+                "name": "person",
+                "confidence": 0.53,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:44:53.711828"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "chair",
+                "confidence": 0.67,
+                "position": "right"
+            },
+            {
+                "name": "tv",
+                "confidence": 0.56,
+                "position": "right"
+            },
+            {
+                "name": "chair",
+                "confidence": 0.52,
+                "position": "right"
+            }
+        ],
+        "time": "2026-02-19T14:44:51.641164"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.84,
+                "position": "center"
+            },
+            {
+                "name": "person",
+                "confidence": 0.54,
+                "position": "left"
+            }
+        ],
+        "time": "2026-02-19T14:44:49.513073"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.76,
+                "position": "center"
+            },
+            {
+                "name": "person",
+                "confidence": 0.47,
+                "position": "right"
+            }
+        ],
+        "time": "2026-02-19T14:44:47.672997"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.75,
+                "position": "center"
+            },
+            {
+                "name": "cell phone",
+                "confidence": 0.64,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:44:45.684141"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.74,
+                "position": "center"
+            },
+            {
+                "name": "skateboard",
+                "confidence": 0.4,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:44:43.884228"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.41,
+                "position": "center"
+            },
+            {
+                "name": "person",
+                "confidence": 0.39,
+                "position": "center"
+            },
+            {
+                "name": "book",
+                "confidence": 0.38,
+                "position": "left"
+            }
+        ],
+        "time": "2026-02-19T14:44:41.572998"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.46,
+                "position": "center"
+            },
+            {
+                "name": "laptop",
+                "confidence": 0.38,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:44:39.899893"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.5,
+                "position": "center"
+            },
+            {
+                "name": "person",
+                "confidence": 0.47,
+                "position": "center"
+            },
+            {
+                "name": "person",
+                "confidence": 0.37,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:44:37.521067"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.91,
+                "position": "left"
+            },
+            {
+                "name": "person",
+                "confidence": 0.43,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:44:35.529493"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.74,
+                "position": "left"
+            },
+            {
+                "name": "person",
+                "confidence": 0.56,
+                "position": "right"
+            },
+            {
+                "name": "person",
+                "confidence": 0.41,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:44:33.665271"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.79,
+                "position": "right"
+            },
+            {
+                "name": "person",
+                "confidence": 0.69,
+                "position": "left"
+            }
+        ],
+        "time": "2026-02-19T14:44:31.621486"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.86,
+                "position": "center"
+            },
+            {
+                "name": "person",
+                "confidence": 0.79,
+                "position": "left"
+            }
+        ],
+        "time": "2026-02-19T14:44:29.643514"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.74,
+                "position": "right"
+            },
+            {
+                "name": "person",
+                "confidence": 0.74,
+                "position": "left"
+            }
+        ],
+        "time": "2026-02-19T14:44:27.544940"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "airplane",
+                "confidence": 0.91,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:44:23.987927"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "chair",
+                "confidence": 0.37,
+                "position": "left"
+            }
+        ],
+        "time": "2026-02-19T14:44:17.368724"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "chair",
+                "confidence": 0.69,
+                "position": "center"
+            },
+            {
+                "name": "chair",
+                "confidence": 0.62,
+                "position": "center"
+            },
+            {
+                "name": "chair",
+                "confidence": 0.48,
+                "position": "right"
+            }
+        ],
+        "time": "2026-02-19T14:44:15.796870"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.46,
+                "position": "left"
+            }
+        ],
+        "time": "2026-02-19T14:44:13.640388"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.76,
+                "position": "left"
+            }
+        ],
+        "time": "2026-02-19T14:44:09.815787"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "cake",
+                "confidence": 0.39,
+                "position": "right"
+            }
+        ],
+        "time": "2026-02-19T14:44:07.712922"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "chair",
+                "confidence": 0.93,
+                "position": "center"
+            },
+            {
+                "name": "chair",
+                "confidence": 0.78,
+                "position": "left"
+            },
+            {
+                "name": "chair",
+                "confidence": 0.72,
+                "position": "left"
+            }
+        ],
+        "time": "2026-02-19T14:44:05.612160"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "chair",
+                "confidence": 0.89,
+                "position": "right"
+            },
+            {
+                "name": "chair",
+                "confidence": 0.41,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:44:03.642127"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "chair",
+                "confidence": 0.86,
+                "position": "right"
+            },
+            {
+                "name": "chair",
+                "confidence": 0.84,
+                "position": "center"
+            },
+            {
+                "name": "chair",
+                "confidence": 0.68,
+                "position": "right"
+            }
+        ],
+        "time": "2026-02-19T14:44:01.481700"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "chair",
+                "confidence": 0.86,
+                "position": "center"
+            },
+            {
+                "name": "chair",
+                "confidence": 0.74,
+                "position": "right"
+            },
+            {
+                "name": "chair",
+                "confidence": 0.68,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:43:59.390278"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "cup",
+                "confidence": 0.85,
+                "position": "left"
+            },
+            {
+                "name": "cup",
+                "confidence": 0.55,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:43:53.583992"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "remote",
+                "confidence": 0.77,
+                "position": "left"
+            },
+            {
+                "name": "person",
+                "confidence": 0.71,
+                "position": "center"
+            },
+            {
+                "name": "person",
+                "confidence": 0.49,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:43:50.414629"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.88,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:27:39.314597"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "keyboard",
+                "confidence": 0.62,
+                "position": "center"
+            },
+            {
+                "name": "laptop",
+                "confidence": 0.48,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:27:35.707567"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "bird",
+                "confidence": 0.39,
+                "position": "left"
+            },
+            {
+                "name": "person",
+                "confidence": 0.36,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:27:33.485034"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.71,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:27:24.727275"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.63,
+                "position": "left"
+            },
+            {
+                "name": "person",
+                "confidence": 0.38,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:25:51.288078"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.8,
+                "position": "right"
+            },
+            {
+                "name": "person",
+                "confidence": 0.71,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:25:49.388750"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.54,
+                "position": "left"
+            },
+            {
+                "name": "person",
+                "confidence": 0.54,
+                "position": "center"
+            },
+            {
+                "name": "person",
+                "confidence": 0.39,
+                "position": "left"
+            }
+        ],
+        "time": "2026-02-19T14:25:47.640015"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.91,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:25:45.450743"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "cell phone",
+                "confidence": 0.96,
+                "position": "center"
+            },
+            {
+                "name": "person",
+                "confidence": 0.44,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:19:13.965569"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "chair",
+                "confidence": 0.67,
+                "position": "center"
+            },
+            {
+                "name": "tv",
+                "confidence": 0.57,
+                "position": "center"
+            },
+            {
+                "name": "chair",
+                "confidence": 0.57,
+                "position": "left"
+            }
+        ],
+        "time": "2026-02-19T14:18:56.346351"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "bench",
+                "confidence": 0.81,
+                "position": "right"
+            },
+            {
+                "name": "chair",
+                "confidence": 0.67,
+                "position": "center"
+            },
+            {
+                "name": "chair",
+                "confidence": 0.5,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:18:52.432668"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.78,
+                "position": "left"
+            },
+            {
+                "name": "chair",
+                "confidence": 0.73,
+                "position": "center"
+            },
+            {
+                "name": "chair",
+                "confidence": 0.54,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:18:50.147185"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.86,
+                "position": "center"
+            },
+            {
+                "name": "chair",
+                "confidence": 0.74,
+                "position": "left"
+            }
+        ],
+        "time": "2026-02-19T14:18:48.272895"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.9,
+                "position": "center"
+            },
+            {
+                "name": "keyboard",
+                "confidence": 0.55,
+                "position": "left"
+            },
+            {
+                "name": "tv",
+                "confidence": 0.47,
+                "position": "left"
+            }
+        ],
+        "time": "2026-02-19T14:18:46.554594"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.84,
+                "position": "center"
+            },
+            {
+                "name": "laptop",
+                "confidence": 0.69,
+                "position": "left"
+            }
+        ],
+        "time": "2026-02-19T14:18:42.082833"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.87,
+                "position": "center"
+            },
+            {
+                "name": "laptop",
+                "confidence": 0.37,
+                "position": "left"
+            }
+        ],
+        "time": "2026-02-19T14:18:40.579575"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.86,
+                "position": "center"
+            },
+            {
+                "name": "keyboard",
+                "confidence": 0.41,
+                "position": "left"
+            }
+        ],
+        "time": "2026-02-19T14:18:36.719600"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "keyboard",
+                "confidence": 0.73,
+                "position": "center"
+            },
+            {
+                "name": "laptop",
+                "confidence": 0.44,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-19T14:18:26.475054"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "keyboard",
+                "confidence": 0.74,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-16T13:23:17.294206"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.61,
+                "position": "center"
+            },
+            {
+                "name": "keyboard",
+                "confidence": 0.58,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-16T13:23:15.260903"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "keyboard",
+                "confidence": 0.75,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-16T13:23:13.348232"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "keyboard",
+                "confidence": 0.56,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-16T13:23:11.318262"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "keyboard",
+                "confidence": 0.62,
+                "position": "center"
+            },
+            {
+                "name": "laptop",
+                "confidence": 0.5,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-16T13:23:08.482660"
+    },
+    {
+        "type": "capture_detect",
+        "object": "keyboard",
+        "confidence": 0.48145875334739685,
+        "time": "2026-02-16T13:23:07.283123"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "keyboard",
+                "confidence": 0.73,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-16T13:23:05.630699"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "keyboard",
+                "confidence": 0.88,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-16T13:23:02.691135"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.91,
+                "position": "center"
+            },
+            {
+                "name": "person",
+                "confidence": 0.54,
+                "position": "right"
+            }
+        ],
+        "time": "2026-02-16T13:21:35.839188"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.91,
+                "position": "center"
+            },
+            {
+                "name": "person",
+                "confidence": 0.59,
+                "position": "right"
+            }
+        ],
+        "time": "2026-02-16T13:21:31.454075"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "keyboard",
+                "confidence": 0.74,
+                "position": "center"
+            },
+            {
+                "name": "laptop",
+                "confidence": 0.41,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-16T13:21:29.679112"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "keyboard",
+                "confidence": 0.71,
+                "position": "center"
+            },
+            {
+                "name": "laptop",
+                "confidence": 0.5,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-16T13:21:27.746076"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.72,
+                "position": "center"
+            },
+            {
+                "name": "keyboard",
+                "confidence": 0.52,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-16T13:21:24.640356"
+    },
+    {
+        "type": "capture_detect",
+        "object": "laptop",
+        "confidence": 0.7062354683876038,
+        "time": "2026-02-16T13:21:23.506410"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.79,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-16T13:21:21.716629"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "keyboard",
+                "confidence": 0.74,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-16T13:21:19.855715"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "keyboard",
+                "confidence": 0.69,
+                "position": "center"
+            },
+            {
+                "name": "laptop",
+                "confidence": 0.37,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-16T13:21:17.770676"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "keyboard",
+                "confidence": 0.55,
+                "position": "center"
+            },
+            {
+                "name": "laptop",
+                "confidence": 0.48,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-16T13:21:14.491908"
+    },
+    {
+        "type": "capture_detect",
+        "object": "laptop",
+        "confidence": 0.6607720255851746,
+        "time": "2026-02-16T13:21:13.546712"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "keyboard",
+                "confidence": 0.48,
+                "position": "center"
+            },
+            {
+                "name": "laptop",
+                "confidence": 0.36,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-16T13:21:11.736242"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "cell phone",
+                "confidence": 0.39,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-16T13:21:09.843676"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "keyboard",
+                "confidence": 0.75,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-16T13:21:06.096868"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.62,
+                "position": "center"
+            },
+            {
+                "name": "keyboard",
+                "confidence": 0.48,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-16T13:21:02.811095"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.49,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-16T00:02:14.695520"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.63,
+                "position": "center"
+            },
+            {
+                "name": "keyboard",
+                "confidence": 0.39,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-16T00:02:12.824650"
+    },
+    {
+        "type": "capture_detect",
+        "object": "person",
+        "confidence": 0.6330579519271851,
+        "time": "2026-02-15T23:58:53.937025"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "tv",
+                "confidence": 0.35,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:57:54.827338"
+    },
+    {
+        "type": "capture_detect",
+        "object": "cell phone",
+        "confidence": 0.4232964515686035,
+        "time": "2026-02-15T23:57:34.867366"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "cell phone",
+                "confidence": 0.42,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:57:28.024717"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.4,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:57:24.169075"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.77,
+                "position": "center"
+            },
+            {
+                "name": "laptop",
+                "confidence": 0.45,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:46:08.286543"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.63,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:46:06.220418"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.62,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:46:04.304274"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.69,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:46:02.394209"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.72,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:45:58.694447"
+    },
+    {
+        "type": "capture_detect",
+        "object": "laptop",
+        "confidence": 0.5873088836669922,
+        "time": "2026-02-15T23:45:57.692775"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.54,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:45:56.236184"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.39,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:45:54.265512"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "tv",
+                "confidence": 0.39,
+                "position": "center"
+            },
+            {
+                "name": "laptop",
+                "confidence": 0.37,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:45:52.131219"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.47,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:45:50.220355"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.6,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:45:48.279276"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.42,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:45:46.205648"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.52,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:45:44.611145"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.38,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:45:42.365051"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.52,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:45:36.231870"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.63,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:45:24.527396"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.55,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:45:22.437940"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.77,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:45:17.899122"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.91,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:45:16.540259"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.86,
+                "position": "center"
+            },
+            {
+                "name": "keyboard",
+                "confidence": 0.36,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:45:14.597710"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "bottle",
+                "confidence": 0.57,
+                "position": "left"
+            },
+            {
+                "name": "bowl",
+                "confidence": 0.53,
+                "position": "left"
+            }
+        ],
+        "time": "2026-02-15T23:45:04.455758"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.91,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:44:54.224994"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.94,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:44:45.936177"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "tv",
+                "confidence": 0.44,
+                "position": "left"
+            }
+        ],
+        "time": "2026-02-15T23:44:44.385578"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.74,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:44:27.774033"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "keyboard",
+                "confidence": 0.85,
+                "position": "center"
+            },
+            {
+                "name": "book",
+                "confidence": 0.4,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:44:25.911918"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.83,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:44:16.145522"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.82,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:44:12.185453"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.74,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:44:10.206576"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "keyboard",
+                "confidence": 0.82,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:44:08.287778"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "keyboard",
+                "confidence": 0.83,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:44:06.409015"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "keyboard",
+                "confidence": 0.63,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:44:04.479303"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.87,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:44:01.301880"
+    },
+    {
+        "type": "capture_detect",
+        "object": "laptop",
+        "confidence": 0.885129988193512,
+        "time": "2026-02-15T23:44:00.222320"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.71,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:14:42.980396"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.92,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:14:40.871663"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.91,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:14:38.858752"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.89,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:14:36.872190"
+    },
+    {
+        "type": "capture_detect",
+        "object": "person",
+        "confidence": 0.9157798886299133,
+        "time": "2026-02-15T23:14:35.766282"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.9,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:14:35.185293"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.94,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:14:33.136229"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.91,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:14:29.468462"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.75,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:14:27.207891"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.77,
+                "position": "center"
+            },
+            {
+                "name": "keyboard",
+                "confidence": 0.41,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:14:22.642875"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.76,
+                "position": "center"
+            },
+            {
+                "name": "keyboard",
+                "confidence": 0.64,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:14:17.497859"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.67,
+                "position": "center"
+            },
+            {
+                "name": "keyboard",
+                "confidence": 0.6,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:14:15.565263"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.85,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:14:13.325307"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.83,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:14:11.609975"
+    },
+    {
+        "type": "capture_detect",
+        "object": "laptop",
+        "confidence": 0.6662060618400574,
+        "time": "2026-02-15T23:14:10.708571"
+    },
+    {
+        "type": "capture_detect",
+        "object": "laptop",
+        "confidence": 0.7036051154136658,
+        "time": "2026-02-15T23:14:10.333540"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.83,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:07:36.091177"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "carrot",
+                "confidence": 0.59,
+                "position": "center"
+            },
+            {
+                "name": "cell phone",
+                "confidence": 0.47,
+                "position": "center"
+            },
+            {
+                "name": "person",
+                "confidence": 0.47,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:07:27.691549"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "cell phone",
+                "confidence": 0.47,
+                "position": "right"
+            },
+            {
+                "name": "person",
+                "confidence": 0.46,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:07:25.390175"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.51,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:07:21.393617"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "surfboard",
+                "confidence": 0.46,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:07:18.299997"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.84,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:07:13.700109"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.88,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:07:11.685609"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.74,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:07:09.116049"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.72,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:07:05.570183"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.8,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:07:03.619896"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.89,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:07:01.669069"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.73,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:06:59.753160"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.81,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:06:51.664606"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.88,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:06:49.600180"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.85,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T23:06:48.217768"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.82,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T22:55:04.400116"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.89,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T22:55:03.725026"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.89,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T22:55:02.033828"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.87,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T22:55:00.211180"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.88,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T22:54:59.674496"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.8,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T22:54:57.834170"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.94,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T22:54:56.679404"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.89,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T22:54:54.814706"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.88,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T22:54:52.957811"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.91,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T22:54:50.792796"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.93,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T22:54:48.413498"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.88,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T22:54:46.616424"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.9,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T22:54:44.393957"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.77,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-15T22:54:41.603094"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.88,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T23:50:07.915349"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.62,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T23:39:49.424238"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "remote",
+                "confidence": 0.39,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T23:39:45.728502"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "keyboard",
+                "confidence": 0.81,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T23:39:43.429248"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.92,
+                "position": "center"
+            },
+            {
+                "name": "keyboard",
+                "confidence": 0.36,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T23:39:41.412325"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "chair",
+                "confidence": 0.51,
+                "position": "center"
+            },
+            {
+                "name": "backpack",
+                "confidence": 0.37,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T23:39:37.399384"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "suitcase",
+                "confidence": 0.51,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T23:39:31.266495"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.41,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T23:39:29.217221"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "mouse",
+                "confidence": 0.6,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T23:39:27.151911"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "remote",
+                "confidence": 0.36,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T23:39:25.328811"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "bed",
+                "confidence": 0.61,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T23:39:19.087569"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "bed",
+                "confidence": 0.39,
+                "position": "right"
+            }
+        ],
+        "time": "2026-02-11T23:39:17.212794"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "bed",
+                "confidence": 0.6,
+                "position": "right"
+            }
+        ],
+        "time": "2026-02-11T23:39:15.602729"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.89,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T23:39:13.276734"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.85,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T23:39:10.880184"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.94,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T23:39:09.205369"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.9,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T23:39:07.277132"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.58,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T23:39:03.347487"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "keyboard",
+                "confidence": 0.7,
+                "position": "center"
+            },
+            {
+                "name": "laptop",
+                "confidence": 0.61,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T23:39:01.021451"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.74,
+                "position": "center"
+            },
+            {
+                "name": "person",
+                "confidence": 0.64,
+                "position": "right"
+            },
+            {
+                "name": "person",
+                "confidence": 0.47,
+                "position": "right"
+            }
+        ],
+        "time": "2026-02-11T16:12:58.021540"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.66,
+                "position": "center"
+            },
+            {
+                "name": "person",
+                "confidence": 0.54,
+                "position": "center"
+            },
+            {
+                "name": "person",
+                "confidence": 0.46,
+                "position": "right"
+            }
+        ],
+        "time": "2026-02-11T16:12:55.392913"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.95,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T16:12:45.224281"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.87,
+                "position": "center"
+            },
+            {
+                "name": "tie",
+                "confidence": 0.43,
+                "position": "left"
+            }
+        ],
+        "time": "2026-02-11T16:12:43.861197"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.95,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T16:12:41.464898"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.78,
+                "position": "center"
+            },
+            {
+                "name": "person",
+                "confidence": 0.74,
+                "position": "left"
+            },
+            {
+                "name": "person",
+                "confidence": 0.47,
+                "position": "left"
+            }
+        ],
+        "time": "2026-02-11T16:12:37.974593"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "cell phone",
+                "confidence": 0.72,
+                "position": "center"
+            },
+            {
+                "name": "person",
+                "confidence": 0.69,
+                "position": "center"
+            },
+            {
+                "name": "person",
+                "confidence": 0.65,
+                "position": "right"
+            }
+        ],
+        "time": "2026-02-11T16:12:34.668622"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.82,
+                "position": "center"
+            },
+            {
+                "name": "person",
+                "confidence": 0.81,
+                "position": "right"
+            },
+            {
+                "name": "laptop",
+                "confidence": 0.79,
+                "position": "left"
+            }
+        ],
+        "time": "2026-02-11T16:12:28.976299"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.84,
+                "position": "center"
+            },
+            {
+                "name": "cell phone",
+                "confidence": 0.65,
+                "position": "left"
+            }
+        ],
+        "time": "2026-02-11T16:12:26.945235"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "cell phone",
+                "confidence": 0.85,
+                "position": "left"
+            },
+            {
+                "name": "bicycle",
+                "confidence": 0.61,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T16:12:25.337524"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.47,
+                "position": "left"
+            },
+            {
+                "name": "bicycle",
+                "confidence": 0.36,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T16:12:23.355403"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "bicycle",
+                "confidence": 0.6,
+                "position": "center"
+            },
+            {
+                "name": "bicycle",
+                "confidence": 0.58,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T16:12:21.288388"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "bicycle",
+                "confidence": 0.69,
+                "position": "center"
+            },
+            {
+                "name": "cell phone",
+                "confidence": 0.59,
+                "position": "left"
+            }
+        ],
+        "time": "2026-02-11T16:12:19.313489"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "cell phone",
+                "confidence": 0.58,
+                "position": "left"
+            },
+            {
+                "name": "motorcycle",
+                "confidence": 0.44,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T16:12:17.325209"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "cell phone",
+                "confidence": 0.47,
+                "position": "center"
+            },
+            {
+                "name": "cell phone",
+                "confidence": 0.39,
+                "position": "left"
+            }
+        ],
+        "time": "2026-02-11T16:12:12.786589"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "cup",
+                "confidence": 0.55,
+                "position": "right"
+            }
+        ],
+        "time": "2026-02-11T15:58:17.324284"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.85,
+                "position": "left"
+            },
+            {
+                "name": "person",
+                "confidence": 0.68,
+                "position": "center"
+            },
+            {
+                "name": "laptop",
+                "confidence": 0.62,
+                "position": "left"
+            }
+        ],
+        "time": "2026-02-11T15:58:15.093957"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.82,
+                "position": "center"
+            },
+            {
+                "name": "person",
+                "confidence": 0.7,
+                "position": "center"
+            },
+            {
+                "name": "person",
+                "confidence": 0.69,
+                "position": "left"
+            }
+        ],
+        "time": "2026-02-11T15:58:13.277096"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.95,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T15:58:05.929051"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "keyboard",
+                "confidence": 0.63,
+                "position": "center"
+            },
+            {
+                "name": "cell phone",
+                "confidence": 0.49,
+                "position": "right"
+            }
+        ],
+        "time": "2026-02-11T15:57:59.380422"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.86,
+                "position": "right"
+            },
+            {
+                "name": "laptop",
+                "confidence": 0.8,
+                "position": "left"
+            },
+            {
+                "name": "cell phone",
+                "confidence": 0.62,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T15:57:56.959473"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.9,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T15:57:54.098663"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "cell phone",
+                "confidence": 0.67,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T12:42:18.038009"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "cell phone",
+                "confidence": 0.55,
+                "position": "center"
+            },
+            {
+                "name": "person",
+                "confidence": 0.43,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T12:42:15.733037"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "cell phone",
+                "confidence": 0.9,
+                "position": "left"
+            }
+        ],
+        "time": "2026-02-11T12:42:14.104866"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "bicycle",
+                "confidence": 0.78,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T12:42:04.905831"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "tennis racket",
+                "confidence": 0.58,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T12:42:01.104884"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.9,
+                "position": "center"
+            },
+            {
+                "name": "person",
+                "confidence": 0.68,
+                "position": "left"
+            },
+            {
+                "name": "person",
+                "confidence": 0.58,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T12:41:46.696038"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.82,
+                "position": "center"
+            },
+            {
+                "name": "person",
+                "confidence": 0.74,
+                "position": "left"
+            },
+            {
+                "name": "person",
+                "confidence": 0.42,
+                "position": "left"
+            }
+        ],
+        "time": "2026-02-11T12:41:44.020098"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.87,
+                "position": "center"
+            },
+            {
+                "name": "person",
+                "confidence": 0.68,
+                "position": "left"
+            }
+        ],
+        "time": "2026-02-11T12:41:42.172634"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.63,
+                "position": "right"
+            },
+            {
+                "name": "person",
+                "confidence": 0.6,
+                "position": "left"
+            },
+            {
+                "name": "person",
+                "confidence": 0.52,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T12:41:39.687501"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.93,
+                "position": "center"
+            },
+            {
+                "name": "laptop",
+                "confidence": 0.91,
+                "position": "right"
+            },
+            {
+                "name": "person",
+                "confidence": 0.67,
+                "position": "left"
+            }
+        ],
+        "time": "2026-02-11T12:41:38.163746"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.9,
+                "position": "center"
+            },
+            {
+                "name": "chair",
+                "confidence": 0.57,
+                "position": "right"
+            },
+            {
+                "name": "person",
+                "confidence": 0.56,
+                "position": "right"
+            }
+        ],
+        "time": "2026-02-11T12:41:36.204389"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.87,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T12:41:34.586440"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.9,
+                "position": "center"
+            },
+            {
+                "name": "person",
+                "confidence": 0.43,
+                "position": "left"
+            }
+        ],
+        "time": "2026-02-11T12:41:32.719243"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.76,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-11T12:41:29.842459"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.93,
+                "position": "center"
+            }
+        ],
+        "speech": "person center",
+        "time": "2026-02-07T16:25:02.348988"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.89,
+                "position": "center"
+            }
+        ],
+        "speech": "person center",
+        "time": "2026-02-07T16:25:00.347059"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.78,
+                "position": "center"
+            }
+        ],
+        "speech": "laptop center",
+        "time": "2026-02-07T16:24:52.681006"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.67,
+                "position": "center"
+            }
+        ],
+        "speech": "laptop center",
+        "time": "2026-02-07T16:11:22.696207"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.62,
+                "position": "center"
+            }
+        ],
+        "speech": "laptop center",
+        "time": "2026-02-07T16:11:20.825059"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.79,
+                "position": "center"
+            }
+        ],
+        "speech": "laptop center",
+        "time": "2026-02-07T16:11:18.769426"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.71,
+                "position": "center"
+            }
+        ],
+        "speech": "laptop center",
+        "time": "2026-02-07T16:11:16.861346"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.94,
+                "position": "center"
+            }
+        ],
+        "speech": "person center",
+        "time": "2026-02-07T16:11:10.757685"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.94,
+                "position": "center"
+            }
+        ],
+        "speech": "person center",
+        "time": "2026-02-07T16:11:09.177652"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.93,
+                "position": "center"
+            }
+        ],
+        "speech": "person center",
+        "time": "2026-02-07T16:11:07.006112"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.93,
+                "position": "center"
+            }
+        ],
+        "speech": "person center",
+        "time": "2026-02-07T16:11:04.881579"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.9,
+                "position": "center"
+            }
+        ],
+        "speech": "person center",
+        "time": "2026-02-07T16:11:03.329883"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.63,
+                "position": "center"
+            }
+        ],
+        "speech": "laptop center",
+        "time": "2026-02-07T16:10:58.726813"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.63,
+                "position": "center"
+            }
+        ],
+        "speech": "laptop center",
+        "time": "2026-02-07T16:10:56.714353"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.69,
+                "position": "center"
+            }
+        ],
+        "speech": "laptop center",
+        "time": "2026-02-07T16:10:55.231178"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.41,
+                "position": "center"
+            }
+        ],
+        "speech": "laptop on the center. ",
+        "time": "2026-02-07T16:08:46.783118"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.64,
+                "position": "center"
+            }
+        ],
+        "speech": "person on the center. ",
+        "time": "2026-02-07T16:08:33.649659"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.53,
+                "position": "center"
+            }
+        ],
+        "speech": "person on the center. ",
+        "time": "2026-02-07T16:08:31.470309"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.9,
+                "position": "center"
+            },
+            {
+                "name": "tie",
+                "confidence": 0.41,
+                "position": "center"
+            }
+        ],
+        "speech": "person on the center. tie on the center. ",
+        "time": "2026-02-07T16:08:27.854413"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.54,
+                "position": "center"
+            }
+        ],
+        "speech": "laptop on the center. ",
+        "time": "2026-02-07T16:08:20.030280"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.72,
+                "position": "center"
+            }
+        ],
+        "speech": "person on the center. ",
+        "time": "2026-02-07T15:48:02.620403"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.9,
+                "position": "center"
+            }
+        ],
+        "speech": "person on the center. ",
+        "time": "2026-02-07T15:47:59.200273"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.9,
+                "position": "center"
+            }
+        ],
+        "speech": "person on the center. ",
+        "time": "2026-02-07T15:47:55.510004"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.83,
+                "position": "center"
+            }
+        ],
+        "speech": "laptop on the center. ",
+        "time": "2026-02-07T15:47:51.614141"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.83,
+                "position": "center"
+            }
+        ],
+        "speech": "laptop on the center. ",
+        "time": "2026-02-07T15:47:46.447969"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "cat",
+                "confidence": 0.45,
+                "position": "center"
+            },
+            {
+                "name": "laptop",
+                "confidence": 0.42,
+                "position": "center"
+            }
+        ],
+        "speech": "cat on the center. laptop on the center. ",
+        "time": "2026-02-07T15:47:43.062111"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.48,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-07T15:42:32.766449"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.91,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-07T15:42:28.986430"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.8,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-07T15:42:24.851685"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.87,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-07T15:42:18.824877"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "backpack",
+                "confidence": 0.59,
+                "position": "right"
+            }
+        ],
+        "time": "2026-02-07T15:42:16.319461"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.49,
+                "position": "right"
+            }
+        ],
+        "time": "2026-02-07T15:42:06.935754"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "tv",
+                "confidence": 0.45,
+                "position": "right"
+            }
+        ],
+        "time": "2026-02-07T15:42:03.439296"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.91,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-07T15:41:58.816751"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.92,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-07T15:41:56.855011"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.84,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-07T15:41:52.509059"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.9,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-07T15:41:49.376224"
+    },
+    {
+        "type": "detect",
+        "object": "person",
+        "confidence": 0.9218317270278931,
+        "time": "2026-02-05T11:01:01.612193"
+    },
+    {
+        "type": "detect",
+        "object": "person",
+        "confidence": 0.9136743545532227,
+        "time": "2026-02-05T11:01:00.085747"
+    },
+    {
+        "type": "detect",
+        "object": "person",
+        "confidence": 0.9116396307945251,
+        "time": "2026-02-05T11:00:59.462091"
+    },
+    {
+        "type": "detect",
+        "object": "person",
+        "confidence": 0.9045948386192322,
+        "time": "2026-02-05T11:00:57.578371"
+    },
+    {
+        "type": "detect",
+        "object": "person",
+        "confidence": 0.9085299372673035,
+        "time": "2026-02-05T11:00:55.610050"
+    },
+    {
+        "type": "detect",
+        "object": "person",
+        "confidence": 0.9287809133529663,
+        "time": "2026-02-05T11:00:53.539713"
+    },
+    {
+        "type": "detect",
+        "object": "laptop",
+        "confidence": 0.7659655213356018,
+        "time": "2026-02-05T11:00:51.938018"
+    },
+    {
+        "type": "detect",
+        "object": "book",
+        "confidence": 0.4680860638618469,
+        "time": "2026-02-05T11:00:48.518831"
+    },
+    {
+        "type": "detect",
+        "object": "suitcase",
+        "confidence": 0.37352612614631653,
+        "time": "2026-02-05T11:00:45.936875"
+    },
+    {
+        "type": "detect",
+        "object": "person",
+        "confidence": 0.5474849939346313,
+        "time": "2026-02-05T11:00:43.816509"
+    },
+    {
+        "type": "detect",
+        "object": "person",
+        "confidence": 0.64238440990448,
+        "time": "2026-02-05T11:00:41.645329"
+    },
+    {
+        "type": "detect",
+        "object": "cell phone",
+        "confidence": 0.6320846676826477,
+        "time": "2026-02-05T11:00:29.543997"
+    },
+    {
+        "type": "detect",
+        "object": "skateboard",
+        "confidence": 0.4683521091938019,
+        "time": "2026-02-05T11:00:27.744846"
+    },
+    {
+        "type": "detect",
+        "object": "refrigerator",
+        "confidence": 0.6198683977127075,
+        "time": "2026-02-05T11:00:09.220643"
+    },
+    {
+        "type": "detect",
+        "object": "mouse",
+        "confidence": 0.6164291501045227,
+        "time": "2026-02-05T11:00:06.144805"
+    },
+    {
+        "type": "detect",
+        "object": "person",
+        "confidence": 0.7871382832527161,
+        "time": "2026-02-05T11:00:01.789781"
+    },
+    {
+        "type": "detect",
+        "object": "person",
+        "confidence": 0.8361234068870544,
+        "time": "2026-02-05T10:59:59.828800"
+    },
+    {
+        "type": "detect",
+        "object": "laptop",
+        "confidence": 0.7732979655265808,
+        "time": "2026-02-05T10:59:57.889553"
+    },
+    {
+        "type": "detect",
+        "object": "laptop",
+        "confidence": 0.8962292671203613,
+        "time": "2026-02-05T10:59:55.932642"
+    },
+    {
+        "type": "detect",
+        "object": "bed",
+        "confidence": 0.43428394198417664,
+        "time": "2026-02-05T10:59:54.081047"
+    },
+    {
+        "type": "detect",
+        "object": "surfboard",
+        "confidence": 0.37310323119163513,
+        "time": "2026-02-05T10:59:52.228893"
+    },
+    {
+        "type": "detect",
+        "object": "surfboard",
+        "confidence": 0.6230328679084778,
+        "time": "2026-02-05T10:59:49.693156"
+    },
+    {
+        "type": "detect",
+        "object": "surfboard",
+        "confidence": 0.37184956669807434,
+        "time": "2026-02-05T10:59:47.878866"
+    },
+    {
+        "type": "detect",
+        "object": "bed",
+        "confidence": 0.3804599344730377,
+        "time": "2026-02-05T10:59:43.707731"
+    },
+    {
+        "type": "detect",
+        "object": "dog",
+        "confidence": 0.31998535990715027,
+        "time": "2026-02-05T10:59:41.849560"
+    },
+    {
+        "type": "detect",
+        "object": "laptop",
+        "confidence": 0.2644007205963135,
+        "time": "2026-02-05T10:59:39.881350"
+    },
+    {
+        "type": "detect",
+        "object": "chair",
+        "confidence": 0.3969890773296356,
+        "time": "2026-02-05T10:59:37.822525"
+    },
+    {
+        "type": "detect",
+        "object": "laptop",
+        "confidence": 0.29253140091896057,
+        "time": "2026-02-05T10:59:35.773895"
+    },
+    {
+        "type": "detect",
+        "object": "laptop",
+        "confidence": 0.4982559382915497,
+        "time": "2026-02-05T10:59:33.490119"
+    },
+    {
+        "type": "detect",
+        "object": "laptop",
+        "confidence": 0.8246221542358398,
+        "time": "2026-02-05T10:59:31.716994"
+    },
+    {
+        "type": "detect",
+        "object": "laptop",
+        "confidence": 0.8624035716056824,
+        "time": "2026-02-05T10:59:29.733411"
+    },
+    {
+        "type": "detect",
+        "object": "person",
+        "confidence": 0.9251050353050232,
+        "time": "2026-02-05T10:59:25.295014"
+    },
+    {
+        "type": "detect",
+        "object": "person",
+        "confidence": 0.9247174859046936,
+        "time": "2026-02-05T10:59:24.287668"
+    },
+    {
+        "type": "detect",
+        "object": "person",
+        "confidence": 0.9119492173194885,
+        "time": "2026-02-05T10:59:23.456783"
+    },
+    {
+        "type": "detect",
+        "object": "person",
+        "confidence": 0.9215393662452698,
+        "time": "2026-02-05T10:59:21.426692"
+    },
+    {
+        "type": "detect",
+        "object": "cell phone",
+        "confidence": 0.5100904107093811,
+        "time": "2026-02-05T10:59:18.377222"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.88,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-05T10:43:27.008760"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.9,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-05T10:43:24.899670"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.89,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-05T10:43:23.497317"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.89,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-05T10:43:22.919801"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.93,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-05T10:43:20.881344"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.94,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-05T10:43:18.911209"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.93,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-05T10:43:16.928668"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.92,
+                "position": "center"
+            },
+            {
+                "name": "bed",
+                "confidence": 0.39,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-05T10:43:13.594734"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.9,
+                "position": "center"
+            },
+            {
+                "name": "bed",
+                "confidence": 0.79,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-05T10:43:11.364654"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.92,
+                "position": "center"
+            },
+            {
+                "name": "bed",
+                "confidence": 0.79,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-05T10:43:10.402388"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.88,
+                "position": "center"
+            },
+            {
+                "name": "bed",
+                "confidence": 0.8,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-05T10:43:09.301787"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.9,
+                "position": "center"
+            },
+            {
+                "name": "bed",
+                "confidence": 0.71,
+                "position": "center"
+            },
+            {
+                "name": "couch",
+                "confidence": 0.42,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-05T10:43:07.391387"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.91,
+                "position": "center"
+            },
+            {
+                "name": "bed",
+                "confidence": 0.7,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-05T10:43:05.330259"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.82,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-05T10:43:03.785351"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.93,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-05T10:42:57.478514"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.88,
+                "position": "center"
+            },
+            {
+                "name": "bed",
+                "confidence": 0.67,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-05T10:42:55.233681"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.88,
+                "position": "center"
+            },
+            {
+                "name": "bed",
+                "confidence": 0.83,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-05T10:42:53.275105"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "laptop",
+                "confidence": 0.91,
+                "position": "center"
+            },
+            {
+                "name": "bed",
+                "confidence": 0.51,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-05T10:42:51.342744"
+    },
+    {
+        "type": "detect",
+        "objects": [
+            {
+                "name": "keyboard",
+                "confidence": 0.63,
+                "position": "center"
+            }
+        ],
+        "time": "2026-02-05T10:42:49.679083"
+    },
+    {
+        "type": "chat",
+        "q": "hello",
+        "a": "AI temporarily unavailable",
+        "time": "2026-01-31T15:29:50.850879"
+    },
+    {
+        "type": "chat",
+        "q": "hello",
+        "a": "AI temporarily unavailable",
+        "time": "2026-01-31T15:24:40.715061"
+    },
+    {
+        "type": "detect",
+        "object": "person",
+        "confidence": 0.8962182998657227,
+        "time": "2026-01-31T15:23:45.878757"
+    },
+    {
+        "type": "detect",
+        "object": "laptop",
+        "confidence": 0.859603226184845,
+        "time": "2026-01-31T15:23:37.450313"
+    },
+    {
+        "type": "detect",
+        "object": "laptop",
+        "confidence": 0.8177550435066223,
+        "time": "2026-01-31T15:23:24.751676"
+    },
+    {
+        "type": "detect",
+        "object": "refrigerator",
+        "confidence": 0.5385690331459045,
+        "time": "2026-01-31T15:22:45.925205"
+    },
+    {
+        "type": "detect",
+        "object": "cup",
+        "confidence": 0.4923558831214905,
+        "time": "2026-01-31T15:22:25.647039"
+    },
+    {
+        "type": "detect",
+        "object": "laptop",
+        "confidence": 0.8878600001335144,
+        "time": "2026-01-31T15:22:09.155913"
+    },
+    {
+        "type": "detect",
+        "object": "person",
+        "confidence": 0.937780499458313,
+        "time": "2026-01-31T15:21:58.480569"
+    },
+    {
+        "type": "chat",
+        "q": "hii",
+        "a": "AI temporarily unavailable",
+        "time": "2026-01-31T15:21:29.892547"
+    },
+    {
+        "type": "chat",
+        "q": "what is AI?",
+        "a": "AI service temporarily unavailable.",
+        "time": "2026-01-30T12:24:36.830191"
+    },
+    {
+        "type": "chat",
+        "q": "what is ai?",
+        "a": "AI service temporarily unavailable.",
+        "time": "2026-01-30T12:17:38.605821"
+    },
+    {
+        "type": "chat",
+        "q": "what is ai?",
+        "a": "AI service temporarily unavailable.",
+        "time": "2026-01-30T12:02:27.013091"
+    },
+    {
+        "type": "ai_chat",
+        "query": "what is ai?",
+        "reply": "AI service not available right now. Please try again.",
+        "time": "2026-01-30T01:19:51.371572"
+    },
+    {
+        "type": "ai_chat",
+        "query": "what is blockchain",
+        "reply": "AI service not available right now. Please try again.",
+        "time": "2026-01-30T01:03:17.334815"
+    },
+    {
+        "type": "ai_chat",
+        "query": "what is ai",
+        "reply": "AI service not available right now. Please try again.",
+        "time": "2026-01-30T01:02:35.002226"
+    },
+    {
+        "type": "ai_chat",
+        "query": "namaste",
+        "reply": "Namaste. Main aapki madad ke liye yahan hoon.",
+        "time": "2026-01-30T00:50:51.952232"
+    },
+    {
+        "type": "ai_chat",
+        "query": "namaste",
+        "reply": "Namaste. Main aapki madad ke liye yahan hoon.",
+        "time": "2026-01-30T00:50:40.461615"
+    },
+    {
+        "type": "ai_chat",
+        "query": "ok",
+        "reply": "I understood your message but need more context.",
+        "time": "2026-01-30T00:50:31.318588"
+    },
+    {
+        "type": "ai_chat",
+        "query": "hello",
+        "reply": "Hello. I am your VisionWalk assistant. How can I help you?",
+        "time": "2026-01-30T00:50:23.080938"
+    },
+    {
+        "type": "ai_chat",
+        "query": "ohl",
+        "reply": "I understood your message but need more context.",
+        "time": "2026-01-30T00:50:19.365070"
+    },
+    {
+        "type": "ai_chat",
+        "query": "what is ai",
+        "reply": "I understood your message but need more context.",
+        "time": "2026-01-30T00:50:13.753612"
+    },
+    {
+        "type": "ai_chat",
+        "query": "hey",
+        "reply": "Hello. I am your VisionWalk assistant. How can I help you?",
+        "time": "2026-01-30T00:50:01.633471"
+    },
+    {
+        "type": "object_detection",
+        "object": "Person",
+        "confidence": 0.94,
+        "time": "2026-01-30T00:32:56.386586"
+    },
+    {
+        "type": "ai_chat",
+        "query": "hello",
+        "reply": "I received your message: hello",
+        "time": "2026-01-30T00:32:08.985310"
+    },
+    {
+        "type": "ai_chat",
+        "query": "hello",
+        "reply": "I received your message: hello",
+        "time": "2026-01-30T00:31:42.789659"
+    },
+    {
+        "type": "object_detection",
+        "object": "Person",
+        "confidence": 0.94,
+        "time": "2026-01-30T00:30:58.372155"
+    },
+    {
+        "type": "ai_chat",
+        "query": "hello",
+        "reply": "I received your message: hello",
+        "time": "2026-01-29T14:33:15.484718"
+    },
+    {
+        "type": "object_detection",
+        "object": "Person",
+        "confidence": 0.94,
+        "time": "2026-01-29T13:00:41.792991"
+    },
+    {
+        "type": "ai_chat",
+        "query": "nice to meet you",
+        "reply": "I received your message: nice to meet you",
+        "time": "2026-01-29T12:29:45.766274"
+    },
+    {
+        "type": "object_detection",
+        "object": "Person",
+        "confidence": 0.94,
+        "time": "2026-01-29T12:29:32.996428"
+    },
+    {
+        "type": "ai_chat",
+        "query": "helo",
+        "reply": "I received your message: helo",
+        "time": "2026-01-29T11:59:42.245829"
+    },
+    {
+        "type": "object_detection",
+        "object": "Person",
+        "confidence": 0.94,
+        "time": "2026-01-29T11:44:37.007223"
+    },
+    {
+        "type": "ai_chat",
+        "query": "helo",
+        "reply": "I received your message: helo",
+        "time": "2026-01-29T11:44:25.967458"
+    },
+    {
+        "type": "object_detection",
+        "object": "Person",
+        "confidence": 0.94,
+        "time": "2026-01-28T00:44:16.918162"
+    },
+    {
+        "type": "ai_chat",
+        "query": "79",
+        "reply": "I received your message: 79",
+        "time": "2026-01-28T00:44:00.872408"
+    },
+    {
+        "type": "ai_chat",
+        "query": "heelo",
+        "reply": "I received your message: heelo",
+        "time": "2026-01-28T00:43:33.571234"
+    },
+    {
+        "type": "object_detection",
+        "object": "Person",
+        "confidence": 0.94,
+        "time": "2026-01-28T00:40:46.768884"
+    },
+    {
+        "type": "object_detection",
+        "object": "Person",
+        "confidence": 0.94,
+        "time": "2026-01-28T00:40:37.736796"
+    },
+    {
+        "type": "object_detection",
+        "object": "Person",
+        "confidence": 0.94,
+        "time": "2026-01-28T00:40:24.127845"
+    },
+    {
+        "type": "ai_chat",
+        "query": "hell",
+        "reply": "I received your message: hell",
+        "time": "2026-01-28T00:40:08.758927"
+    }
+]
