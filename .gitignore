@@ -5,6 +5,8 @@ frontend/Capstone/lib.zip
 backend/yolov8n.pt
 backend/uploads/
 backend/yoloenv/
+.venv/
+
 
 *.class
 *.lock

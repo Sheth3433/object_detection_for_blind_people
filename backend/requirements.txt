@@ -1,3 +1,7 @@
 fastapi
 uvicorn
 python-multipart
+ultralytics
+google.generativeai
+gtts
+shutils

@@ -6,7 +6,6 @@ import google.generativeai as genai
 import shutil, os, json
 from ultralytics import YOLO
 import cv2
-
 from gtts import gTTS
 from fastapi.responses import FileResponse
 
